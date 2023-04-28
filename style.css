@@ -25,11 +25,13 @@ a{
       border: dotted;  
       border-color: black;
 }
-
     a.gien:hover {
       cursor: pointer;
       color: black;
 }
+    a.gien:active {
+      color: blue;
+} 
 
 /* Container Styles */
 .container {
